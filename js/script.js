@@ -32,4 +32,4 @@ const color = prompt('Qual è il tuo colore preferito?')
 console.log('Colore:', color)
 
 // 2. Comunichiamo il risultato
-document.getElementById('color-text').innerHTML = 'Il tuo Colore preferito è ' + color;
+document.getElementById('color-text').innerHTML = 'Il tuo Colore preferito è ' + color + ' 130';
